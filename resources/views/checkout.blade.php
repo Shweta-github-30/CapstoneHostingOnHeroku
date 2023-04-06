@@ -11,8 +11,8 @@
             <div class="row">
   <div class="col-75">
     <div class="container">
-      <form method="POST" action="{{ route('checkout') }}">
-       @csrf
+      <form action="/action_page.php">
+      
         <div class="row">
           <div class="col-50">
           <div class="col-50">
